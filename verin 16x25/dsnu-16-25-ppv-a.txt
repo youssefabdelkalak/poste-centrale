@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"Festo";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-07092016-108466";"";
+"TraceParts.PartLanguage";"fr";"";
+"DESIGN";"Vérin pneumatique DSNU, course 25mm, alésage 16mm, Double Action Mâle M5";"";
+"TraceParts.InstanceId";"10-07092016-1084665FC39J2RO2CY1DH9K7LSXXJUC";"";
+"TraceParts.PartTitle";"Vérin pneumatique DSNU, course 25mm, alésage 16mm, Double Action Mâle M5";"";
+"REFERENCE";"DSNU-16-25-PPV-A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"1214730";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-07092016-108466";"";
